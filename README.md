@@ -105,4 +105,4 @@ class EbikeDetection():
 
 识别示例结果：
 
-<img src="figs/detect.png" alt="Image" width="400">
+<img src="runs/exp_detection/detect_10.png" alt="Image" width="400">
